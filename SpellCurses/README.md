@@ -1,0 +1,2 @@
+# [RoM] SpellCurses Mod
+
