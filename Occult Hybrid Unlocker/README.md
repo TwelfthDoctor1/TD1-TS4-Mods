@@ -1,6 +1,7 @@
 # [TS4] Occult Hybrid Unlocker
 
 This mod allows all Occult sims to become hybrids through normal means.
+
 This mod originated from me trying to modify the Rite Of Ascension spell for other Occults to use them.
 
 This mod requires at least two EP/GP that has an Occult. (Get to Work EP, Vampires GP, Island Living EP, Realm of Magic GP, Discover University EP)
@@ -53,6 +54,7 @@ Normal - Gives the first of three buff (Strangely Hungry) and turns in 36 hours
 
 Charged -  Gives the last buff (Appetite Lost) and turns immediately or in 12 hours
 
+
 Mermadic Transformation
 
 Outcome - Gives the Strange Sensations Buff and lasts 24 hours
@@ -69,11 +71,14 @@ This mod conflicts any mod that changes the following tunings listed at the bott
 
 [Workaround] Use the interaction Ask for Rite of Ascension on any spellcaster that knows the Rite of Ascension spell to become an actual Vampire-Spellcaster hybrid. I’d recommend that the all 3 sages should know of the Rite of Ascension spell as Maxis did not let the sages have it in their spellbook (If the sages know the spell, any sim can walk up to them, say hello and ask for the Rite of Ascension; that’s cheating and skips the fetch quest).
 
+
 [Issue] (Those without RoM) Aliens and Mermaids Are Unable to Become Vampires - The Turn Into Vampire interaction will not work for Aliens and Mermaids is probably due to Maxis not downright showing the Option for the 2 occults. As for the Ask to Turn interaction, the interaction itself cancels out and the next section does not appear. Due to all this, I have to disable the 2 occult traits in the tunings.
 
 [Workaround] Mermaids can turn themselves back into regular Sims by eating 2 Kelps and then turning themselves into Vampires (1.5 days) and once transformed, eat a kelp and walk into water to turn into a Mermaid.
 
 Aliens, No sadly, you will have to use console to do so.
+
+
 
 Tunings Modified:
 
