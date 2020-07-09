@@ -7,17 +7,18 @@ This mod requires at least two EP/GP that has an Occult. (Get to Work EP, Vampir
 After further testing, Mermaids MUST become a normal sim first before turning into a vampire.
 This mod allows:
 
-Aliens to be Spellcasters
-Vampires to be Spellcasters
-Spellcasters to be Vampires
-Mermaids to be Spellcasters
-Servos to be Spellcasters
-Aliens to be Mermaids
-Vampires to be Mermaids
-Spellcasters to be Mermaids
-Spellcasters to be Vampires
-Aliens to be Vampires [Addon Only]
-Mermaids to be Vampires [Addon Only]
+* Aliens to be Spellcasters
+* Vampires to be Spellcasters
+* Spellcasters to be Vampires
+* Mermaids to be Spellcasters
+* Servos to be Spellcasters
+* Aliens to be Mermaids
+* Vampires to be Mermaids
+* Spellcasters to be Mermaids
+* Spellcasters to be Vampires
+* Aliens to be Vampires [Addon Only]
+* Mermaids to be Vampires [Addon Only]
+
 Sims that are in the process of transforming into a Vampire or Mermaid cannot ask to turn or be offered to turn (Not changed) or be casted upon using the 2 spells (Addon Only).
 
 Currently, using this mod does not grant aliens to become vampires. I might have to dig further to find the source of the tuning that is blocking it.
@@ -34,37 +35,8 @@ Eating the Kelp and Going Into Water to be a Mermaid
 I might post this later on MTS.
 
 WARNING: Having Occults with secondary form to be mixed together may have undesirable results on the secondary form. CAS will also delete your secondary form. (Mainly for vampires, not sure of mermaids and aliens)
+
 IMPORTANT NOTE: The needs panel, Perk Unlocker and Secondary Form will break or have issues, use mods linked above to fix them (Applies for Vampire-Spellcaster-Mermaid Occult Hybrids of any combination)
-Offer Rite of Ascension open for Occults.
-
-Ask Rite of Ascension opened for Occults, Ask How To Use Magic should also work.
-
-
-
-
-
-Rite of Ascension still present, the interaction is not autonomous, just ignore it. Using the interaction will do the same thing except no trait is given.
-
-Normally there is only one option for Ask How to Use Magic. I had Zer0′s Vampire-Witches mod which now makes it 2.
-
-
-
-
-
-There is a partial conflict regarding Ask How to use Magic, read below for workaround.
-
-The aformentioned issue with Servos. Perks panel missing. Without Iced Cream’s Motive Sort Override mod, Curses and Charge Globe will be missing.
-
-Turn Into Vampire Option Unlocked for Spellcasters. Aliens and mermaids will have issues pertaining to this.
-
-Ask to Turn option unlocked for Spellcasters. Aliens and mermaids will have issues pertaining to this.
-
-
-
-
-
-
-
 
 
 Addon Version (Requires RoM and Spellbook Injector):
@@ -73,15 +45,6 @@ The addon version adds 2 spells into the spellbook to turn sims into Vampires an
 The 2 spells are Rank 4 Untamed Spells (Master) and you can learn through duelling or through the sage. There are no tomes for the spells, sorry.
 
 Note: Vampires cannot cast the Vampiric Transformation on themselves. Mermaids cannot cast the Mermadic Transformation Spell on themselves. Also, you can’t cast the 2 spells on the Grim Reaper.
-
-
-
-
-
-
-
-
-
 
 
 Vampiric Transformation
@@ -99,6 +62,7 @@ Failure of both spells gives the Buff: Consequences of Trying To Turn which has 
 
 
 Conflicts & Issues:
+
 This mod conflicts any mod that changes the following tunings listed at the bottom.
 
 [Partial Conflict & Issue] Zer0′s Vampire Witches Mod - The end result for Ask How To Use Magic and the rest of the interactions leads Vampires to be Zer0′s form of Vampire-Spellcaster (not the actual hybrid that we are talking about)
@@ -111,8 +75,8 @@ This mod conflicts any mod that changes the following tunings listed at the bott
 
 Aliens, No sadly, you will have to use console to do so.
 
-Download Link <- Click There.
 Tunings Modified:
+
 (7DF2169C-00000000-0000000000034E07) - testSet_NoOccult_Target
 
 (7DF2169C-00000000-0000000000034E00) - testSet_NoOccult_Actor
