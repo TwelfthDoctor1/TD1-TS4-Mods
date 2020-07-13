@@ -1,5 +1,7 @@
 # [RoM] SpellCurses Mod
 
+### Note: This mod is incompatible with [Mastery Spells] Spellcurses Mod (Part of Sage of Mastery Magic Mod)
+
 As Sage of Untamed Magic, I introduce to you my Spell-Curses mod. 
 
 This mod adds in 9 Spell-curses into the game. All curses are from RoM.
