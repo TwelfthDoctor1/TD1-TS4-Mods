@@ -16,9 +16,9 @@ This mod allows:
 * Aliens to be Mermaids
 * Vampires to be Mermaids
 * Spellcasters to be Mermaids
-* Spellcasters to be Vampires
-* Aliens to be Vampires [Addon Only]
-* Mermaids to be Vampires [Addon Only]
+* Servos to be Vampires
+* Aliens to be Vampires
+* Mermaids to be Vampires [Not sure if it will work]
 
 Sims that are in the process of transforming into a Vampire or Mermaid cannot ask to turn or be offered to turn (Not changed) or be casted upon using the 2 spells (Addon Only).
 
