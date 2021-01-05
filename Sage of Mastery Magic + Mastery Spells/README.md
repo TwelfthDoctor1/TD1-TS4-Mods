@@ -1,5 +1,7 @@
 # Sage of Mastery Magic + Mastery Spells + Ghost Butler
 
+## You will need to hover over the files to find the right version
+
 ### Update Log
 
 #### Version 1.00 to Version 1.50+
