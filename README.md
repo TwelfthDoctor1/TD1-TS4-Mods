@@ -17,6 +17,9 @@ Github Repository to hold all of my Sims 4 Mods.
   ![OpenSourcedReleased TS4-Scriptology Repo License](https://img.shields.io/github/license/TwelfthDoctor1/TD1-TS4-Scriptology?color=blueviolet&label=open-src-scripts-license)
 
 ### Version Control
+
+Version Colours are based upon the Notification UI Colour (Green: Release, Purple: Dev, Blue: Beta). A `null` in a Version Type means that. there are no releases on that type.
+
 * Developer Access Panel (DevAccessPanel)
 
   ![DevAccessPanel Release](https://img.shields.io/badge/Release-null-brightgreen)
