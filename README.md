@@ -2,6 +2,20 @@
 
 Github Repository to hold all of my Sims 4 Mods.
 
+### Licenses
+
+* Mod Releases
+
+  ![ModRelease License](https://img.shields.io/badge/mod--release--license-CC--BY--NC--ND%204.0-gold)
+
+* Compiled Scripts
+
+  ![CompiledScripts License](https://img.shields.io/badge/compiled--scripts--license-CC--BY--NC--ND%204.0-008369)
+
+* Released Scripts (In Scriptology Repository)
+
+  ![OpenSourcedReleased TS4-Scriptology Repo License](https://img.shields.io/github/license/TwelfthDoctor1/TD1-TS4-Scriptology?color=blueviolet&label=open-src-scripts-license)
+
 ### Version Control
 * Developer Access Panel (DevAccessPanel)
 
@@ -30,6 +44,28 @@ Github Repository to hold all of my Sims 4 Mods.
 * Travel To Venue
 
   ![TTV Release](https://img.shields.io/badge/Release-Version%201.30-brightgreen)
+
+* Visible Columns In BuildBuy & Live Modes
+
+  ![VCB&LM Release](https://img.shields.io/badge/Release-Version%201.30-brightgreen)
+
+* Occult Hybrid Unlocker
+
+  ![HybridUnlocker Release](https://img.shields.io/badge/Release-Update%203.5%20%5BTransposed%20Version%201.35%5D-brightgreen)
+
+* Choose Your Own
+
+  ![CYO Release](https://img.shields.io/badge/Release-Version%201.43-brightgreen)
+  
+* Vampiric Teleport Spells
+
+  ![VTS Release](https://img.shields.io/badge/Release-Version%203.26-brightgreen)
+
+* Custom Vampire Perks
+
+  ![CVP Release](https://img.shields.io/badge/Release-Version%201.50-brightgreen)
+
+#### All Other Mods Please Check Respective Mod Pages
 
 ### Usage & Distribution Rules
 * Users are allowed to modify the mod to their liking
