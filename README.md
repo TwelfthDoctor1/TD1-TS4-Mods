@@ -32,15 +32,15 @@ Version Colours are based upon the Notification UI Colour (Green: Release, Purpl
 
   ![TMS Release](https://img.shields.io/badge/Release-Version%202.16%20Build%2013.2-brightgreen)
   
-  ![TMS Developer](https://img.shields.io/badge/Developer-Version%202.17%20Proto%20Build%2022.4-blueviolet)
+  ![TMS Developer](https://img.shields.io/badge/Developer-Version%202.17%20Proto%20Build%2022.5-blueviolet)
   
   ![TMS Beta](https://img.shields.io/badge/Beta-null-blue)
 
 * Sage of Mastery Magic + Mastery Spells + Ghost Butler + Alchemy (MasterSpells)
 
-  ![MasterSpells Release](https://img.shields.io/badge/Release-Version%202.10%20No--DevWork--Release%20Build%205-brightgreen)
+  ![MasterSpells Release](https://img.shields.io/badge/Release-Version%202.11%20No--DevWork--Release%20Build%206-brightgreen)
   
-  ![MasterSpells Developer](https://img.shields.io/badge/Developer-Version%202.10%20No--DevWork--Release%20Build%205-blueviolet)
+  ![MasterSpells Developer](https://img.shields.io/badge/Developer-Version%202.13%20No--DevWork--Release%20Build%208-blueviolet)
   
   ![MasterSpells Beta](https://img.shields.io/badge/Beta-null-blue)
 
