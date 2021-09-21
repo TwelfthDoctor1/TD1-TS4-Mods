@@ -24,7 +24,7 @@ Version Colours are based upon the Notification UI Colour (Green: Release, Purpl
 
   ![DevAccessPanel Release](https://img.shields.io/badge/Release-null-brightgreen)
   
-  ![DevAccessPanel Developer](https://img.shields.io/badge/Developer-Proto%20Build%2023.3-blueviolet)
+  ![DevAccessPanel Developer](https://img.shields.io/badge/Developer-Proto%20Build%2023.4-blueviolet)
   
   ![DevAccessPanel Beta](https://img.shields.io/badge/Beta-Release%20Build%2022.8-blue)
   
@@ -47,6 +47,8 @@ Version Colours are based upon the Notification UI Colour (Green: Release, Purpl
 * Travel To Venue
 
   ![TTV Release](https://img.shields.io/badge/Release-Version%201.30-brightgreen)
+  
+  ![TTV Developer](https://img.shields.io/badge/Developer-Proto%20Version%201.40-blueviolet)
 
 * Visible Columns In BuildBuy & Live Modes
 
