@@ -24,29 +24,29 @@ Version Colours are based upon the Notification UI Colour (Green: Release, Purpl
 
   ![DevAccessPanel Release](https://img.shields.io/badge/Release-null-brightgreen)
   
-  ![DevAccessPanel Developer](https://img.shields.io/badge/Developer-Proto%20Build%2023.4-blueviolet)
+  ![DevAccessPanel Developer](https://img.shields.io/badge/Developer-Proto%20Build%2024.6-blueviolet)
   
-  ![DevAccessPanel Beta](https://img.shields.io/badge/Beta-Release%20Build%2022.8-blue)
+  ![DevAccessPanel Beta](https://img.shields.io/badge/Beta-Release%20Build%2023.5-blue)
   
 * Teleport Memory System (TMS)
 
   ![TMS Release](https://img.shields.io/badge/Release-Version%202.17%20Build%2014.5-brightgreen)
   
-  ![TMS Developer](https://img.shields.io/badge/Developer-Version%202.18%20Proto%20Build%2015.1-blueviolet)
+  ![TMS Developer](https://img.shields.io/badge/Developer-Version%202.18%20Proto%20Build%2015.2-blueviolet)
   
   ![TMS Beta](https://img.shields.io/badge/Beta-null-blue)
 
 * Sage of Mastery Magic + Mastery Spells + Ghost Butler + Alchemy (MasterSpells)
 
-  ![MasterSpells Release](https://img.shields.io/badge/Release-Version%202.13%20No--DevWork--Release%20Build%208-brightgreen)
+  ![MasterSpells Release](https://img.shields.io/badge/Release-Version%202.14%20No--DevWork--Release%20Build%209-brightgreen)
   
-  ![MasterSpells Developer](https://img.shields.io/badge/Developer-Version%202.13%20No--DevWork--Release%20Build%208-blueviolet)
+  ![MasterSpells Developer](https://img.shields.io/badge/Developer-Version%202.15%20No--DevWork--Release%20Build%2010-blueviolet)
   
   ![MasterSpells Beta](https://img.shields.io/badge/Beta-null-blue)
 
 * Travel To Venue
 
-  ![TTV Release](https://img.shields.io/badge/Release-Version%201.30-brightgreen)
+  ![TTV Release](https://img.shields.io/badge/Release-Version%201.40-brightgreen)
   
   ![TTV Developer](https://img.shields.io/badge/Developer-Proto%20Version%201.40-blueviolet)
 
