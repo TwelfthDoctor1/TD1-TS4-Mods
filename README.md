@@ -24,7 +24,7 @@ Version Colours are based upon the Notification UI Colour (Green: Release, Purpl
 
   ![DevAccessPanel Release](https://img.shields.io/badge/Release-null-brightgreen)
   
-  ![DevAccessPanel Developer](https://img.shields.io/badge/Developer-Proto%20Build%2024.6-blueviolet)
+  ![DevAccessPanel Developer](https://img.shields.io/badge/Developer-Proto%20Build%2024.13-blueviolet)
   
   ![DevAccessPanel Beta](https://img.shields.io/badge/Beta-Release%20Build%2023.5-blue)
   
