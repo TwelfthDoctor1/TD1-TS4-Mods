@@ -24,15 +24,15 @@ Version Colours are based upon the Notification UI Colour (Green: Release, Purpl
 
   ![DevAccessPanel Release](https://img.shields.io/badge/Release-null-brightgreen)
   
-  ![DevAccessPanel Developer](https://img.shields.io/badge/Developer-Proto%20Build%2024.13-blueviolet)
+  ![DevAccessPanel Developer](https://img.shields.io/badge/Developer-Proto%20Build%2026.4-blueviolet)
   
-  ![DevAccessPanel Beta](https://img.shields.io/badge/Beta-Release%20Build%2023.5-blue)
+  ![DevAccessPanel Beta](https://img.shields.io/badge/Beta-Release%20Build%2026.4-blue)
   
 * Teleport Memory System (TMS)
 
-  ![TMS Release](https://img.shields.io/badge/Release-Version%202.17%20Build%2014.5-brightgreen)
+  ![TMS Release](https://img.shields.io/badge/Release-Version%202.19%20Build%2014.5-brightgreen)
   
-  ![TMS Developer](https://img.shields.io/badge/Developer-Version%202.18%20Proto%20Build%2015.2-blueviolet)
+  ![TMS Developer](https://img.shields.io/badge/Developer-Version%202.19%20Proto%20Build%2015.2-blueviolet)
   
   ![TMS Beta](https://img.shields.io/badge/Beta-null-blue)
 
@@ -52,15 +52,15 @@ Version Colours are based upon the Notification UI Colour (Green: Release, Purpl
 
 * Visible Columns In BuildBuy & Live Modes
 
-  ![VCB&LM Release](https://img.shields.io/badge/Release-Version%201.30-brightgreen)
+  ![VCB&LM Release](https://img.shields.io/badge/Release-Version%201.40-brightgreen)
 
 * Occult Hybrid Unlocker
 
-  ![HybridUnlocker Release](https://img.shields.io/badge/Release-Update%203.5%20%5BTransposed%20Version%201.35%5D-brightgreen)
+  ![HybridUnlocker Release](https://img.shields.io/badge/Release-Update%203.5%20%5BTransposed%20Version%201.4.1%5D-brightgreen)
 
 * Choose Your Own
 
-  ![CYO Release](https://img.shields.io/badge/Release-Version%201.44-brightgreen)
+  ![CYO Release](https://img.shields.io/badge/Release-Version%201.45-brightgreen)
   
 * Vampiric Teleport Spells
 
