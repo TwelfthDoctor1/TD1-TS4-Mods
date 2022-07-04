@@ -56,7 +56,7 @@ Version Colours are based upon the Notification UI Colour (Green: Release, Purpl
 
 * Occult Hybrid Unlocker
 
-  ![HybridUnlocker Release](https://img.shields.io/badge/Release-Update%203.5%20%5BTransposed%20Version%201.4.1%5D-brightgreen)
+  ![HybridUnlocker Release](https://img.shields.io/badge/Release-Version%201.4.1%5D-brightgreen)
 
 * Choose Your Own
 
