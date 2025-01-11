@@ -24,9 +24,9 @@ Version Colours are based upon the Notification UI Colour (Green: Release, Purpl
 
   ![DevAccessPanel Release](https://img.shields.io/badge/Release-null-brightgreen)
   
-  ![DevAccessPanel Developer](https://img.shields.io/badge/Developer-Proto%20Build%2026.4-blueviolet)
+  ![DevAccessPanel Developer](https://img.shields.io/badge/Developer-Proto%20Build%2030-blueviolet)
   
-  ![DevAccessPanel Beta](https://img.shields.io/badge/Beta-Release%20Build%2026.4-blue)
+  ![DevAccessPanel Beta](https://img.shields.io/badge/Beta-null-blue)
   
 * Teleport Memory System (TMS)
 
@@ -56,7 +56,7 @@ Version Colours are based upon the Notification UI Colour (Green: Release, Purpl
 
 * Occult Hybrid Unlocker
 
-  ![HybridUnlocker Release](https://img.shields.io/badge/Release-Version%201.4.1%5D-brightgreen)
+  ![HybridUnlocker Release](https://img.shields.io/badge/Release-Version%201.10%5D-brightgreen)
 
 * Choose Your Own
 
