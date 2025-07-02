@@ -1,0 +1,16 @@
+{
+    "allow_selectable_pets": true,
+    "cheat_debug_pie_menu": false,
+    "dev_show_int_tuning_name": false,
+    "disable_notifs": false,
+    "drgluon_glubee_feature_unlock": true,
+    "ep06_fame_quirks_decay_lock": false,
+    "ep06_fame_rank_decay_lock": false,
+    "ep08_org_rank_decay_lock": true,
+    "force_debug_cheat_menu": true,
+    "override_debug_menu": true,
+    "override_integration_testset": false,
+    "override_pack_testset": false,
+    "override_version_testset": false,
+    "phone_int_cheat": false
+}
